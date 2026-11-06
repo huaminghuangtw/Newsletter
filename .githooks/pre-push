@@ -1,9 +1,0 @@
-#!/bin/sh
-
-python3 .scripts/sync_self_intro.py
-python3 .scripts/generate_readme.py
-
-if ! git diff --quiet posts/ README.md; then
-  git add posts/ README.md
-  git commit --no-verify -m "chore: sync self-intro & README index"
-fi
