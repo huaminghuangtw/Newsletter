@@ -1,7 +1,7 @@
 ---
 title: 忙，不等於生產力、慢慢來，比較快、有時候，花時間才是捷徑。
 created: 2026-09-04
-modified: 2026-10-22
+modified: 2026-11-14
 draft: false
 issue: 47
 ---
@@ -24,7 +24,7 @@ _嗨，我是 [黃樺明](https://huam.ing/about)，喜歡 [寫作](https://huam
 
 我以前，常把「忙」誤認為「生產力」。**長時間埋頭苦幹，卻從未 [慢下腳步](enoughness-43.md#1)、確認有沒有更值得做的事，這是偷懶的另一種形式**。
 
-換句話說，忙，常常是「懶得想方向」的藉口。**把時間都花在「把事情做對」，卻未曾停下來思考自己是不是在「做對的事情」，這是偽裝成勤奮的懶惰**。
+換句話說，忙，常常是懶得想方向的藉口。**把時間都花在「把事情做對」，卻未曾停下來思考自己是不是在「做對的事情」，這是偽裝成勤奮的懶惰**。
 
 《[與成功有約：高效率人士的七個習慣](https://www.books.com.tw/products/0010874292)》（[The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)）作者 [Stephen R. Covey](https://www.google.com/search?q=Stephen+R.+Covey) 曾說：
 
